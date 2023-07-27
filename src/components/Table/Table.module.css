@@ -1,0 +1,16 @@
+thead th.theader {
+	height: 54px;
+	text-align: center;
+	min-width: 100px;
+	color: #fff;
+	background-color: #474955;
+}
+
+.title {
+	margin-right: 40px;
+	pointer-events: none;
+} 
+
+.shevron {
+	pointer-events: none;
+}

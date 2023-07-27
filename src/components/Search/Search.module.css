@@ -1,0 +1,25 @@
+.container {
+	width: fit-content;
+	position: relative;
+	margin-bottom: 16px;
+}
+
+.search {
+	color: #fff;
+	height: 52px;
+	min-width: 450px;
+	border: none;
+	background-color: #474955;
+	padding-left: 28px;
+
+}
+
+.button {
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	top: 16px;
+	right: 16px;
+	border: none;
+	background-color:#474955;
+}

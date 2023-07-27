@@ -1,0 +1,27 @@
+.pagination {
+	display: flex;
+	justify-content: space-around;
+}
+
+.page {
+	margin: 0 8px;
+	font-size: 18px;
+	font-style: italic;
+	font-weight: bold;
+	cursor: pointer;
+}
+
+.page__current {
+	margin: 0 8px;
+	font-size: 18px;
+	font-style: italic;
+	font-weight: bold;
+	cursor: pointer;
+	color: #7EBC3C;
+}
+
+.prevnext {
+	cursor: pointer;
+	font-size: 24px;
+	font-weight: 500;
+}
